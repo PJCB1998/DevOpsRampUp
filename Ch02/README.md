@@ -13,3 +13,5 @@ To review key concepts of Networkin and Operating Systems
 </p>
 
 ## Load Balancing Questions
+
+[Answers]("./notes/load_balancing_questions.txt")
