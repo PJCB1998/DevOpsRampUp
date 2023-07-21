@@ -25,9 +25,6 @@ Reduced complexity: A load balancer can help to simplify the management of your 
 4. Describe a situation where a proxy isn't a load balancer and what would be its use.
 
 A proxy is a server that acts as an intermediary between a client and a server. It can be used to improve performance, security, or both.
-
 A proxy is not a load balancer if it does not distribute traffic across multiple servers. For example, a proxy that is used to cache web pages is not a load balancer. This is because the proxy is simply serving the same web pages from a single server, rather than distributing traffic across multiple servers.
-
 A proxy can be used to improve performance by caching web pages. When a client requests a web page, the proxy will first check its cache to see if it has a copy of the page. If it does, the proxy will serve the page from its cache, which will improve performance because the client does not have to download the page from the original server.
-
 A proxy can also be used to improve security by filtering traffic. For example, a proxy can be used to block malicious traffic from reaching a server.
