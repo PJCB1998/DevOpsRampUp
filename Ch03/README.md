@@ -22,8 +22,8 @@
 13. What's your IP and MAC address?  
 14. Can you communicate outside your private network? Test this with a command.   
 15. What happens to a packet going to a host outside of the network?  
-16. What is the IP of your gateway(s)? Can you check this with two commands?  
-17.Trace the route being taken to connect to cloudflare.com.  
+16. What is the IP of your gateway(s)? Can you check this with two commands? 
+17. Trace the route being taken to connect to cloudflare.com.  
 18. What's the IP address of perficient.com? What's their mail server?  
 19. List all TCP and UDP connections on the system.  
 20. What ports do you have open on the system?  
