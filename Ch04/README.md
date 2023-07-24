@@ -31,5 +31,8 @@ Learn about source code managment, the different ways it can be done but with a 
 
 * Create repositories for your scripts and next challenges
 
-   ![[Link to Repo](./imgs/challanges/ch_02.png)](https://github.com/PJCB1998/DevOpsRampUpCh05/)
+  <p align="center">
+    <a href="https://github.com/PJCB1998/DevOpsRampUpCh05/">
+        <img style = "width:500px" src="imgs/challanges/ch_02.png"></a>
+    </p>
 * Select a branching model and apply it to your repositories. Make a diagram explaining the branching model.
