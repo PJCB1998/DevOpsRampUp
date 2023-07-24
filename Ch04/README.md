@@ -20,6 +20,11 @@ Learn about source code managment, the different ways it can be done but with a 
 * For gaming practice we suggest you to do at least one of the following websites. If you want you can do all of these:
 
   - https://learngitbranching.js.org/
+
+    <p align="center">
+    <img style = "width:500px" src="imgs/challanges/ch_01.png">
+    </p>
+
   - https://ohmygit.org/
   - https://gitexercises.fracz.com/
   - https://www.w3schools.com/GIT/exercise.asp?filename=exercise_getstarted1
