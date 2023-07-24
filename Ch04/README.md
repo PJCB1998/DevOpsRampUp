@@ -36,3 +36,7 @@ Learn about source code managment, the different ways it can be done but with a 
         <img style = "width:500px" src="imgs/challanges/ch_02.png"></a>
     </p>
 * Select a branching model and apply it to your repositories. Make a diagram explaining the branching model.
+
+  <p align="center">
+    <img style = "width:500px" src="imgs/challanges/ch_03.png">
+    </p>
