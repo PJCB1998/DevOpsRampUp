@@ -1,9 +1,12 @@
 # The Linux Operating System 
 
 ## Goal
+To unsderstan the basics of a linux operating sysem as well as practice basic commands
 
 ## Methodology 
-
+1) Read the provided text
+2) Wirite notes with key concepts and information
+3) Complete the challanges proposed in the guide
 ## Handwritten Notes 
 
 ## Challenges
