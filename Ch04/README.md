@@ -22,7 +22,7 @@ Learn about source code managment, the different ways it can be done but with a 
   - https://learngitbranching.js.org/
 
     <p align="center">
-    <img style = "width:500px" src="/imgs/challanges/ch_01.png">
+    <img style = "width:500px" src="imgs/challanges/ch_01.png">
     </p>
 
   - https://ohmygit.org/
