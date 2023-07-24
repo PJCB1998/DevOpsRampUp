@@ -1,14 +1,16 @@
 # The Linux Operating System 
 
 ## Goal
-To unsderstan the basics of a linux operating sysem as well as practice basic commands
+To understand the basics of a linux operating system as well as practice basic commands
 
 ## Methodology 
 1) Read the provided text
 2) Wirite notes with key concepts and information
 3) Complete the challanges proposed in the guide
 ## Handwritten Notes 
-
+<p align="center">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
+  </p>
 ## Challenges
 1. Display the content of the /etc/passwd, count how many lines it has and sort in a decreasing order (z-a). 
 
