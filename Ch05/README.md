@@ -6,8 +6,11 @@
 
 ## Handwritten Notes 
 
-## Challanges 
+## Repo
 
+("Link To The Repositoroy With The Script") https://github.com/PJCB1998/DevOpsRampUpCh05
+
+## Challanges 
 * Display only the even numbers from 1 to 100.
 * Compare natural numbers and display "X is greater than Y", "X is equal to Y" or "X is less than Y".
 * Read N numbers from the stdio and compute their average.
