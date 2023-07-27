@@ -1,10 +1,20 @@
 # Scripting 
 
 ## Goal 
-
+To better understand bash scripting
 ## Methodology 
-
+1)  Read the provided text
+2)  Elaborate handwritten notes
+3)  Complete the challanges
+4)  Complete additonal challange proposed by mentor
 ## Handwritten Notes 
+
+<p align="center">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_2.jpg">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_3.jpg">
+</p>
+
 
 ## Repo
 
