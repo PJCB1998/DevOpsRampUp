@@ -5,7 +5,7 @@ To further undestan configuration managment tools, it uses and learn about one i
 
 ## Methodology 
   1) Read the text provided
-  2) Investigate a configuration managemnt tool further in my case Ansible
+  2) Investigate a configuration managment tool further in my case Ansible
   3) Configure the microservice aplication in my local machine using VMs and Ansible
 
 ## Handwritten Notes 
