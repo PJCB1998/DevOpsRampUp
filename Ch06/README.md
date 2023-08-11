@@ -11,8 +11,10 @@ To further undestan configuration managment tools, it uses and learn about one i
     <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
     <img style = "width:300px" src="imgs/hw_notes/hw_notes_2.jpg">
 </p>
+
 ## Repo 
 [ Repository with the playbook needed to solve the chalanges and start the virtual machines](https://github.com/PJCB1998/DevOpsRampUpCh06)
+
 ## Challenges 
 
   - In this challenge you’ll need to replicate the configurations you made in the scripting challenge using a configuration management tool:
