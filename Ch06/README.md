@@ -2,10 +2,12 @@
 
 ## Goal 
 To further undestan configuration managment tools, it uses and learn about one in depth 
+
 ## Methodology 
   1) Read the text provided
   2) Investigate a configuration managemnt tool further in my case Ansible
   3) Configure the microservice aplication in my local machine using VMs and Ansible
+
 ## Handwritten Notes 
 <p align="center">
     <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
