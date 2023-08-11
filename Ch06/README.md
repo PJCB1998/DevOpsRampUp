@@ -16,7 +16,7 @@ To further undestan configuration managment tools, it uses and learn about one i
 
 ## Repo 
 
-[ Repository with the playbook needed to solve the chalanges and start the virtual machines](https://github.com/PJCB1998/DevOpsRampUpCh06)
+[ Repository with the ansible playbook needed to solve the chalanges and start the virtual machines](https://github.com/PJCB1998/DevOpsRampUpCh06)
 
 ## Challenges 
 
