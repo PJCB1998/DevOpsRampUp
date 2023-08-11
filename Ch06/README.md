@@ -7,7 +7,10 @@ To further undestan configuration managment tools, it uses and learn about one i
   2) Investigate a configuration managemnt tool further in my case Ansible
   3) Configure the microservice aplication in my local machine using VMs and Ansible
 ## Handwritten Notes 
-
+<p align="center">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_2.jpg">
+</p>
 ## Repo 
 [ Repository with the playbook needed to solve the chalanges and start the virtual machines](https://github.com/PJCB1998/DevOpsRampUpCh06)
 ## Challenges 
