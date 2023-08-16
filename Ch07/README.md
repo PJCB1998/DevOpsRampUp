@@ -18,7 +18,6 @@ Learn about Virtualization and its advantages. Aswell to learn about hypervisor 
 [Link to the repository with the solution to the challenges](https://github.com/PJCB1998/DevOpsRampUpCh07)
 
 ## Challenges 
-## Container challenges
 
 1)  Run the "Hello, World" Docker container. Make sure you understand the concepts of Container Registry, pulling and pushing an image to a Registry.
 2)  Run a program that you want from a Docker container. It can be a web server, a database or even a programming language. 
