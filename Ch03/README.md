@@ -11,7 +11,9 @@ To understand the basics of a linux operating system as well as practice basic c
 <p align="center">
     <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
   </p>
+  
 ## Challenges
+
 1. Display the content of the /etc/passwd, count how many lines it has and sort in a decreasing order (z-a). 
 
   <p align="center">
