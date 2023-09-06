@@ -7,7 +7,9 @@ To understand Infrastructure as Code with a focus in Terraform
 2) Research Terrafrom 
 3) Deploy the microservice aplication using Terraform
 ## Handwritten Notes 
-
+<p align="center">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
+</p>
 ## Challenges 
 
 Let's get to work! in this challenge you'll do the same things we did on the previous chapter, but using IaC:
