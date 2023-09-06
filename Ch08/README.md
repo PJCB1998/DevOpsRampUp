@@ -1,12 +1,13 @@
 # Cloud Computing 
 
 ##  Goal 
-    To understand Cloud Computing with a focus in AWS
+To understand Cloud Computing with a focus in AWS
 ## Methodology 
-    1) Read the provided text
-    2) Further research the topic
-    3) Solve the Challanges 
-    4) Merge what is done in this chapter with chapter 9 
+1)  Read the provided text
+2)  Further research the topic
+3)  Solve the Challanges 
+4)  Merge what is done in this chapter with chapter 9
+   
 ## Handwritten Notes 
 
 ## Challenges 
@@ -32,19 +33,19 @@ Once you finish the diagram, show it to your trainer and discuss together about 
 First, let's get a little warmed up with AWS running your app with only EC2 Instances, just as we did on the previous chapter
 with Vagrant:
 
-**1.** Create two EC2 Instances, just as we did with vagrant, one for the backend, another for the frontend.
+1) Create two EC2 Instances, just as we did with vagrant, one for the backend, another for the frontend.
 
-**2.** Choose the AMI (OS) you want to use on your instance, We suggest using Amazon Linux 2 or Ubuntu.
+2) Choose the AMI (OS) you want to use on your instance, We suggest using Amazon Linux 2 or Ubuntu.
 
-**3.** Create a new EC2 Instance to work as your **bastion host**. This will be used to access through SSH to your private instances and the access must be allowed only from your IP.
+3) Create a new EC2 Instance to work as your **bastion host**. This will be used to access through SSH to your private instances and the access must be allowed only from your IP.
 
-**4.** Set up your instances so your backend instance belongs to a private subnet and the frontend belongs to a public
+4) Set up your instances so your backend instance belongs to a private subnet and the frontend belongs to a public
 subnet, that way your instances should be able to communicate, but you shouldn't be able to log in through ssh to your
 backend instance (you can access to it through your **bastion** instance logging in through ssh to your **backend** instance).
 
-**5.** Provision your instances and run your application just as you did on the previous chapter while provisioning your Virtual Machines.
+5) Provision your instances and run your application just as you did on the previous chapter while provisioning your Virtual Machines.
 
-**6.** Check that your app is running and try to access it through the public IP and port you assigned for the frontend, double check that
+6)  Check that your app is running and try to access it through the public IP and port you assigned for the frontend, double check that
 everything is running ok.
 
 ### Running your App with High Availability
