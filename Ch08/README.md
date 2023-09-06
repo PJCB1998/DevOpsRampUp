@@ -9,6 +9,9 @@ To understand Cloud Computing with a focus in AWS
 4)  Merge what is done in this chapter with chapter 9
    
 ## Handwritten Notes 
+<p align="center">
+    <img style = "width:300px" src="imgs/hw_notes/hw_notes_1.jpg">
+</p>
 
 ## Challenges 
 
