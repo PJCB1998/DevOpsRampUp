@@ -46,7 +46,7 @@ module "bastion" {
   version = "5.5.0"
 
   ami           = "ami-0f8e81a3da6e2510a"
-  instance_type = "t2.micro"
+  instance_type = "t2.small"
   name          = "bastion-ec2-pjc"
   subnet_id     = data.aws_subnet.ramp_up_training_public_1.id
   instance_tags = {
